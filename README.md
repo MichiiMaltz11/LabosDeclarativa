@@ -1,1 +1,1 @@
-# Labo01Declarativa
+# LabosDeclarativa
