@@ -1,0 +1,1 @@
+/home/michii-maltez/.m2/repository/it/unibo/alice/tuprolog/tuprolog/3.3.0/tuprolog-3.3.0.jar:/home/michii-maltez/.m2/repository/org/apache/commons/commons-lang3/3.0/commons-lang3-3.0.jar:/home/michii-maltez/.m2/repository/com/google/code/gson/gson/2.6.2/gson-2.6.2.jar
